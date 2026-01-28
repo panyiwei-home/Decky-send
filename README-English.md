@@ -1,5 +1,7 @@
 # decky-send - Steam Deck Local Network File Transfer Assistant
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese-brightgreen)](README.md) [![English](https://img.shields.io/badge/Language-English-blue)](README-English.md)
+
 A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)

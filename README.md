@@ -1,5 +1,7 @@
 # Decky-send - Steam Deck 文件管理助手
 
+[![中文](https://img.shields.io/badge/语言-中文-brightgreen)](README.md) [![English](https://img.shields.io/badge/Language-English-blue)](README-English.md)
+
 一个功能强大的 Decky Loader 插件，旨在解决 Steam Deck 与其他设备之间的文件传输与管理难题。无需数据线，通过浏览器即可轻松管理文件和同步文本。
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
